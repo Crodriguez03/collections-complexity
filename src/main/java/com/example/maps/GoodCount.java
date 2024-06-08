@@ -1,4 +1,4 @@
-package com.example.collectionscomplexity;
+package com.example.maps;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
